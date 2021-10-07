@@ -10,8 +10,7 @@
 ### - 📱 Khamsat: https://mostaql.com/u/Mr_elshiaty/portfolio
 ### - 📃 Resume: https://drive.google.com/file/d/17VUKONXTp8fl3gOW1uWY5y8R1AhV7EY7/view?usp=sharing
 
-![Top Languages Card](https://Red-Tires-E-commerce-Flutter-app.vercel.app/api/top-langs/?ElshiatyTube=shinokada)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ElshiatyTube/ElshiatyTube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
