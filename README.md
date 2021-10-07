@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 💼 I’m currently working freelancer on Mostaql, Khamsat freelancing platforms. 
+### - 💼 I'm currently working as a freelancer on Mostaql, Khamsat platforms. 
 ### - 🔭 Now I Actively searching for a good full-time job opportunity in a software company as a Flutter Developer Remotely or in Alexandria...
 ### - 🎓 Bachelor's degree in Computer Science
 ### - 💻 3+ years of experience with Android native development, One year of experience with flutter
