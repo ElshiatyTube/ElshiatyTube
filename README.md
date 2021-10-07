@@ -12,7 +12,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?ElshiatyTube=shinokada)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?ElshiatyTube=ElshiatyTube&repo=Red-Tires-E-commerce-Flutter-app&show_owner=true)](https://github.com/ElshiatyTube/Red-Tires-E-commerce-Flutter-app)
 <!--
 **ElshiatyTube/ElshiatyTube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
