@@ -9,7 +9,7 @@
 ##### - 📱 Mostaql: https://mostaql.com/u/Mr_elshiaty/portfolio
 ##### - 📱 Khamsat: https://khamsat.com/user/youssef-elshiaty
 ##### - 📃 Linkedin: https://www.linkedin.com/in/youssef-hany-540179161
-##### - 📃 My Resume: https://drive.google.com/file/d/1pKjGDpE5-6FRKoi8zm3cMQ6bfeh3DUBh/view?usp=sharing
+##### - 📃 My Resume: https://drive.google.com/file/d/10S1vpdgVlcG8TQMSpOSI7lI8FsT_zwd6/view?usp=sharing
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ElshiatyTube&layout=compact)
 
