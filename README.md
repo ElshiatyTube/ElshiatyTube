@@ -6,10 +6,10 @@
 ##### - 💬 Ask me about a source code of any private app if you are interested ....
 ##### - 💬 Ask me about flutter or android native 👨‍💻❤️...
 ##### - 📫 How to reach me ==> Email: yusuf4iaty@gmail.com / Whatsapp: +201275913057 ...
-##### - 📱 Mostaql: https://mostaql.com/u/Mr_elshiaty/portfolio
-##### - 📱 Khamsat: https://khamsat.com/user/youssef-elshiaty
+##### - 📱 Mostaql (Some of my work): https://mostaql.com/u/Mr_elshiaty/portfolio
+##### - 📱 Khamsat (Freelamcing account): https://khamsat.com/user/youssef-elshiaty
 ##### - 📃 Linkedin: https://www.linkedin.com/in/youssef-hany-540179161
-##### - 📃 My Resume: https://drive.google.com/file/d/10S1vpdgVlcG8TQMSpOSI7lI8FsT_zwd6/view?usp=sharing
+##### - 📃 My CV: https://drive.google.com/file/d/10S1vpdgVlcG8TQMSpOSI7lI8FsT_zwd6/view?usp=sharing
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ElshiatyTube&layout=compact)
 
