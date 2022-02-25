@@ -7,7 +7,6 @@
 ##### - 📱 Mostaql freelancing account (Some of my work, Ask me for more): https://mostaql.com/u/Mr_elshiaty/portfolio
 ##### - 📱 Khamsat (Freelancing account): https://khamsat.com/user/youssef-elshiaty
 ##### - 📃 Linkedin: https://www.linkedin.com/in/youssef-hany-540179161
-##### - 📃 My CV: https://drive.google.com/file/d/10S1vpdgVlcG8TQMSpOSI7lI8FsT_zwd6/view?usp=sharing
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ElshiatyTube&layout=compact)
 
